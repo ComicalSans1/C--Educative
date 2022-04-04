@@ -13,3 +13,6 @@ int main(void){
         else if(i = number){cout << "prime"; break;}
     }
 }
+// there are faster ways to do this
+// i also do not care
+// noones gonna see this anyways
